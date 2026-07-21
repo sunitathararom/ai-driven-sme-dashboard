@@ -59,7 +59,7 @@ A collection of academic and personal projects in **Data Analytics, Business Int
 
 ---
 
-# 🤖 Business Process Automation
+# 🤖 Business Process Automation & Web Development
 
 ## 🧠 Mental Health & Stress Level Assessment
 
@@ -70,8 +70,6 @@ A collection of academic and personal projects in **Data Analytics, Business Int
 - Improved workflow efficiency by eliminating manual data processing.
 
 ---
-
-# 💻 Web Development
 
 ## 🌿 GreenTrail E-commerce Website
 
