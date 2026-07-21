@@ -1,21 +1,37 @@
 # 📂 Projects Portfolio
 
-A collection of academic and personal projects in **Data Analytics, Business Intelligence, Business Analysis, System Analysis, Business Process Automation,**.
+A collection of academic and personal projects in **Data Analytics, Business Intelligence, Business Analysis, System Analysis, Business Process Automation, and Web Development**.
+
+---
+
+# 🎓 Bachelor's Thesis (In Progress)
+
+## ☕ AI-Driven Performance Optimizer for SMEs: Automated Sales Analytics and Strategic Advisory System
+
+**Status:** 🚧 In Progress (Current Semester)
+
+**Duration:** 2026 – Present
+
+**Tools:** Power Query • Microsoft Excel • n8n • OpenAI API • Looker Studio • Google Sheets
+
+### Project Overview
+
+Developing an AI-powered decision support system that automates sales data processing, KPI monitoring, and AI-generated business recommendations using real-world POS sales data from a café business.
+
+### Current Progress
+
+- ✅ Literature Review
+- ✅ Requirement Analysis
+- ✅ Data Collection
+- ✅ Data Cleaning using Power Query
+- 🔄 Workflow Development using n8n
+- 🔄 AI Integration with OpenAI API
+- ⏳ Dashboard Development in Looker Studio
+- ⏳ System Testing & Evaluation
 
 ---
 
 # 📊 Data Analytics & Business Intelligence
-
-## ☕ AI-Driven Performance Optimizer for SMEs: Automated Sales Analytics and Strategic Advisory System
-**Bachelor's Thesis – In Progress**
-
-**Tools:** Power Query • Microsoft Excel • n8n • OpenAI API • Looker Studio • Google Sheets
-
-- Developed an AI-powered sales analytics platform using six months of real-world POS sales data from a café business.
-- Automated data cleaning, preprocessing, and sales analysis workflows using Power Query and n8n integrated with the OpenAI API.
-- Built interactive Looker Studio dashboards to monitor KPIs, sales trends, product performance, and support business decision-making.
-
----
 
 ## 📈 Apple Global Sales Dashboard
 
