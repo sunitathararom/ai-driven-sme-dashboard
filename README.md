@@ -66,11 +66,13 @@ The system operates through an end-to-end data pipeline:
   <br><br>
 
   *🥧 Tab 6: Revenue Contribution Matrix (เมทริกซ์สัดส่วนรายได้)*
-  <img alt="Plotly Chart 6" src="https://github.com/user-attachments/assets/3242b8fc-fb5c-431a-be72-72a97d663271" width="800" />
+  <img width="1273" height="735" alt="Screenshot 2026-07-27 190700" src="https://github.com/user-attachments/assets/7e18d9f6-bb32-4c6b-af28-6b15cd636f76" />
+
   <br><br>
 
   *👥 Tab 7: Customer Insights & Market Value Distribution (วิเคราะห์ข้อมูลเชิงลึกฐานลูกค้าและเสถียรภาพองค์กร)*
-  <img alt="Plotly Chart 7" src="https://github.com/user-attachments/assets/84f5694b-5151-4b02-b296-d4b6f05137f8" width="800" />
+ <img width="1289" height="891" alt="Screenshot 2026-07-27 190718" src="https://github.com/user-attachments/assets/9b51032a-970b-4a9c-8665-4251e0f88d77" />
+
   <br><br>
 
   *🎯 Tab 8: RFM Segmentation Proxy (วิเคราะห์พฤติกรรมกลุ่มลูกค้าเชิงลึกด้วยแบบจำลอง Clustering)*
