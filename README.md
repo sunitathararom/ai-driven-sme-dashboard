@@ -5,7 +5,8 @@
 This project is an automated Executive Business Intelligence (BI) Dashboard designed to support strategic decision-making for a **Villa & Cafe business**. It integrates Data Engineering, AI-driven workflow automation, and an interactive web dashboard to transform raw Point of Sale (POS) data into actionable business insights.
 
 ## 🏗️ System Architecture & Workflow
-<img width="1882" height="902" alt="Screenshot 2026-07-27 191639" src="https://github.com/user-attachments/assets/29862258-cd01-415e-b95c-b8a70e7c677a" />
+<img width="1616" height="557" alt="Screenshot 2026-07-27 164828" src="https://github.com/user-attachments/assets/681e7142-cd50-4d62-9f4a-e49f6d055066" />
+
 
 The system operates through an end-to-end data pipeline:
 1. **Data Preparation:** Raw POS data extraction and cleaning.
@@ -40,7 +41,7 @@ The system operates through an end-to-end data pipeline:
   ---
 
   **2. Advanced Analytics & Plotly Charts (หน้ากราฟ 8 มิติ)**
-(<img width="1358" height="725" alt="Screenshot 2026-07-27 190548" src="https://github.com/user-attachments/assets/d8482707-2605-4550-8f7b-dfc851921bd7" />)
+<img width="1358" height="725" alt="Screenshot 2026-07-27 190548" src="https://github.com/user-attachments/assets/d8482707-2605-4550-8f7b-dfc851921bd7" />
   <img width="1333" height="716" alt="Screenshot 2026-07-27 190611" src="https://github.com/user-attachments/assets/c5d98cf3-830b-452c-a5d6-943a243781a9" />
 <img width="1376" height="751" alt="Screenshot 2026-07-27 190600" src="https://github.com/user-attachments/assets/06707a38-c6c2-47ff-a6d5-fd8de9c249a7" />
 <img width="1356" height="700" alt="Screenshot 2026-07-27 190629" src="https://github.com/user-attachments/assets/9aff8b95-4bda-4b11-bea5-931ab7c8b9a9" />
