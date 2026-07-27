@@ -5,8 +5,7 @@
 This project is an automated Executive Business Intelligence (BI) Dashboard designed to support strategic decision-making for a **Villa & Cafe business**. It integrates Data Engineering, AI-driven workflow automation, and an interactive web dashboard to transform raw Point of Sale (POS) data into actionable business insights.
 
 ## 🏗️ System Architecture & Workflow
-<img width="1623" height="535" alt="Screenshot 2026-07-27 192837" src="https://github.com/user-attachments/assets/90d5b502-501e-4c0d-a46b-dd2582df1f76" />
-
+<img alt="System Architecture" src="https://github.com/user-attachments/assets/681e7142-cd50-4d62-9f4a-e49f6d055066" width="800" />
 
 The system operates through an end-to-end data pipeline:
 1. **Data Preparation:** Raw POS data extraction and cleaning.
@@ -43,37 +42,37 @@ The system operates through an end-to-end data pipeline:
   <br>
 
   **2. Advanced Analytics & Plotly Charts**
-  <p><i>โมดูลวิเคราะห์ข้อมูลเชิงลึก 8 มิติ (คุณสามารถดูรายละเอียดแต่ละกราฟได้ด้านล่าง)</i></p>
+  <p><i>โมดูลวิเคราะห์ข้อมูลเชิงลึก 8 มิติ</i></p>
   
-  *📊 2.1 Sales Trends & Revenue Analysis (วิเคราะห์แนวโน้มยอดขาย)*
+  *📈 Tab 1: Daily Net Sales Trend (วิเคราะห์แนวโน้มยอดขายสุทธิรายวัน)*
   <img alt="Plotly Chart 1" src="https://github.com/user-attachments/assets/d8482707-2605-4550-8f7b-dfc851921bd7" width="800" />
   <br><br>
 
-  *📦 2.2 Product Mix & Category Performance (วิเคราะห์หมวดหมู่สินค้าขายดี)*
+  *🏆 Tab 2: Top 10 Revenue Generating Products (10 อันดับสินค้าที่สร้างรายได้สูงสุด)*
   <img alt="Plotly Chart 2" src="https://github.com/user-attachments/assets/06707a38-c6c2-47ff-a6d5-fd8de9c249a7" width="800" />
   <br><br>
 
-  *🕒 2.3 Golden Hours Heatmap (วิเคราะห์ช่วงเวลาที่มียอดขายสูงสุด)*
+  *📦 Tab 3: Category Revenue Distribution (สัดส่วนรายได้ตามหมวดหมู่สินค้า)*
   <img alt="Plotly Chart 3" src="https://github.com/user-attachments/assets/c5d98cf3-830b-452c-a5d6-943a243781a9" width="800" />
   <br><br>
 
-  *👥 2.4 Customer Segmentation / RFM Proxy (วิเคราะห์พฤติกรรมลูกค้า)*
+  *📅 Tab 4: Average Sales Performance by Day (ประสิทธิภาพยอดขายเฉลี่ยตามวันในสัปดาห์)*
   <img alt="Plotly Chart 4" src="https://github.com/user-attachments/assets/9aff8b95-4bda-4b11-bea5-931ab7c8b9a9" width="800" />
   <br><br>
 
-  *📈 2.5 Business Health & Growth Metrics (สถิติการเติบโตของธุรกิจ)*
+  *🔥 Tab 5: Golden Hours Density Heatmap (ฮีทแมปวิเคราะห์ความหนาแน่นของยอดขาย)*
   <img alt="Plotly Chart 5" src="https://github.com/user-attachments/assets/8f9dba34-ebc4-4c68-b577-3c247348e2db" width="800" />
   <br><br>
 
-  *🛒 2.6 Average Order Value / Ticket Size (วิเคราะห์มูลค่าเฉลี่ยต่อบิล)*
+  *🥧 Tab 6: Revenue Contribution Matrix (เมทริกซ์สัดส่วนรายได้)*
   <img alt="Plotly Chart 6" src="https://github.com/user-attachments/assets/3242b8fc-fb5c-431a-be72-72a97d663271" width="800" />
   <br><br>
 
-  *🎯 2.7 Cross-Selling Opportunities (วิเคราะห์โอกาสในการขายพ่วง)*
+  *👥 Tab 7: Customer Insights & Market Value Distribution (วิเคราะห์ข้อมูลเชิงลึกฐานลูกค้าและเสถียรภาพองค์กร)*
   <img alt="Plotly Chart 7" src="https://github.com/user-attachments/assets/84f5694b-5151-4b02-b296-d4b6f05137f8" width="800" />
   <br><br>
 
-  *📊 2.8 Comprehensive Data Breakdown (ข้อมูลเชิงลึกสรุปรายวัน)*
+  *🎯 Tab 8: RFM Segmentation Proxy (วิเคราะห์พฤติกรรมกลุ่มลูกค้าเชิงลึกด้วยแบบจำลอง Clustering)*
   <img alt="Plotly Chart 8" src="https://github.com/user-attachments/assets/a606c32a-3c54-499a-b4c5-262fc651d08f" width="800" />
   
   <br><br>
