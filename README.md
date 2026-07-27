@@ -5,8 +5,7 @@
 This project is an automated Executive Business Intelligence (BI) Dashboard designed to support strategic decision-making for a **Villa & Cafe business**. It integrates Data Engineering, AI-driven workflow automation, and an interactive web dashboard to transform raw Point of Sale (POS) data into actionable business insights.
 
 ## 🏗️ System Architecture & Workflow
-<img width="1616" height="557" alt="Screenshot 2026-07-27 164828" src="https://github.com/user-attachments/assets/681e7142-cd50-4d62-9f4a-e49f6d055066" />
-
+<img alt="System Architecture" src="https://github.com/user-attachments/assets/681e7142-cd50-4d62-9f4a-e49f6d055066" width="800" />
 
 The system operates through an end-to-end data pipeline:
 1. **Data Preparation:** Raw POS data extraction and cleaning.
@@ -30,36 +29,34 @@ The system operates through an end-to-end data pipeline:
 
 ## 📸 Screenshots / System Preview
 <details>
-  <summary>Click to view system screenshots</summary>
+  <summary><b>Click to view system screenshots</b></summary>
   
   <br>
 
   **1. Executive Dashboard Overview (หน้าจอภาพรวมยอดขาย)**
- <img width="1882" height="902" alt="Screenshot 2026-07-27 191639" src="https://github.com/user-attachments/assets/5d0125f6-ccb6-400e-9f57-dcbc31f4b6fa" />
+  <br>
+  <img alt="Dashboard Overview" src="https://github.com/user-attachments/assets/5d0125f6-ccb6-400e-9f57-dcbc31f4b6fa" width="800" />
 
-  
   ---
 
   **2. Advanced Analytics & Plotly Charts (หน้ากราฟ 8 มิติ)**
-<img width="1358" height="725" alt="Screenshot 2026-07-27 190548" src="https://github.com/user-attachments/assets/d8482707-2605-4550-8f7b-dfc851921bd7" />
-<img width="1376" height="751" alt="Screenshot 2026-07-27 190600" src="https://github.com/user-attachments/assets/06707a38-c6c2-47ff-a6d5-fd8de9c249a7" />
-<img width="1333" height="716" alt="Screenshot 2026-07-27 190611" src="https://github.com/user-attachments/assets/c5d98cf3-830b-452c-a5d6-943a243781a9" />
-<img width="1356" height="700" alt="Screenshot 2026-07-27 190629" src="https://github.com/user-attachments/assets/9aff8b95-4bda-4b11-bea5-931ab7c8b9a9" />
-<img width="1335" height="722" alt="Screenshot 2026-07-27 190645" src="https://github.com/user-attachments/assets/8f9dba34-ebc4-4c68-b577-3c247348e2db" />
-<img width="1315" height="735" alt="Screenshot 2026-07-27 190700" src="https://github.com/user-attachments/assets/3242b8fc-fb5c-431a-be72-72a97d663271" />
-<img width="1342" height="891" alt="Screenshot 2026-07-27 190718" src="https://github.com/user-attachments/assets/84f5694b-5151-4b02-b296-d4b6f05137f8" />
-<img width="1342" height="887" alt="Screenshot 2026-07-27 190729" src="https://github.com/user-attachments/assets/a606c32a-3c54-499a-b4c5-262fc651d08f" />
+  <br>
+  <img alt="Plotly Chart 1" src="https://github.com/user-attachments/assets/d8482707-2605-4550-8f7b-dfc851921bd7" width="49%" />
+  <img alt="Plotly Chart 2" src="https://github.com/user-attachments/assets/06707a38-c6c2-47ff-a6d5-fd8de9c249a7" width="49%" />
+  <img alt="Plotly Chart 3" src="https://github.com/user-attachments/assets/c5d98cf3-830b-452c-a5d6-943a243781a9" width="49%" />
+  <img alt="Plotly Chart 4" src="https://github.com/user-attachments/assets/9aff8b95-4bda-4b11-bea5-931ab7c8b9a9" width="49%" />
+  <img alt="Plotly Chart 5" src="https://github.com/user-attachments/assets/8f9dba34-ebc4-4c68-b577-3c247348e2db" width="49%" />
+  <img alt="Plotly Chart 6" src="https://github.com/user-attachments/assets/3242b8fc-fb5c-431a-be72-72a97d663271" width="49%" />
+  <img alt="Plotly Chart 7" src="https://github.com/user-attachments/assets/84f5694b-5151-4b02-b296-d4b6f05137f8" width="49%" />
+  <img alt="Plotly Chart 8" src="https://github.com/user-attachments/assets/a606c32a-3c54-499a-b4c5-262fc651d08f" width="49%" />
 
-
-
-  
   ---
 
   **3. What-If Simulation Module (หน้าต่างจำลองสถานการณ์)**
-  ![What-If Simulation](<img width="1796" height="592" alt="Screenshot 2026-07-27 191251" src="https://github.com/user-attachments/assets/37c6573c-806b-4e62-9a66-8769b6126de0" />)
+  <br>
+  <img alt="What-If Simulation" src="https://github.com/user-attachments/assets/37c6573c-806b-4e62-9a66-8769b6126de0" width="800" />
   
 </details>
-
 
 ## 🚧 Current Status
 **In Progress:** This project is part of an ongoing Bachelor's Thesis. The core data engineering pipelines, AI automation logic, and primary dashboard functionalities have been successfully implemented. Further UI enhancements and system optimizations are currently under active development.
