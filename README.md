@@ -28,7 +28,7 @@ The system operates through an end-to-end data pipeline:
 * **Data Visualization:** Plotly
 * **Data Storage:** Google Sheets (Cloud DB)
 
-## 📸 Screenshots / System Preview
+## 📸 System Preview
 <details>
   <summary><b>Click to view system screenshots</b></summary>
   
