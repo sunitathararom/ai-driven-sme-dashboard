@@ -5,7 +5,8 @@
 This project is an automated Executive Business Intelligence (BI) Dashboard designed to support strategic decision-making for a **Villa & Cafe business**. It integrates Data Engineering, AI-driven workflow automation, and an interactive web dashboard to transform raw Point of Sale (POS) data into actionable business insights.
 
 ## 🏗️ System Architecture & Workflow
-<img alt="System Architecture" src="https://github.com/user-attachments/assets/681e7142-cd50-4d62-9f4a-e49f6d055066" width="800" />
+<img width="1623" height="535" alt="Screenshot 2026-07-27 192837" src="https://github.com/user-attachments/assets/90d5b502-501e-4c0d-a46b-dd2582df1f76" />
+
 
 The system operates through an end-to-end data pipeline:
 1. **Data Preparation:** Raw POS data extraction and cleaning.
